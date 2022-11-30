@@ -1,7 +1,7 @@
 # _Paytm Clone Using Tailwind_
 ## _[Live Link 🌐🚀](https://tmpay-tailwind-project.netlify.app/)_
 
-## _Used:_ <br>
+## _Technology Used:_ <br>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></p>
 
 ## _Deployed On:_ 
